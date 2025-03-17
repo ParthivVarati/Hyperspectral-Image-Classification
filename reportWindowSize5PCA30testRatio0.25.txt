@@ -1,0 +1,18 @@
+10.907204449176788 Test loss (%)
+97.29883670806885 Test accuracy (%)
+
+              precision    recall  f1-score   support
+
+        Corn       0.96      0.96      0.96       575
+       Grass       0.97      0.96      0.96       380
+    Soyabean       0.94      0.98      0.96      1009
+      Others       0.99      0.98      0.98      3293
+
+    accuracy                           0.97      5257
+   macro avg       0.96      0.97      0.97      5257
+weighted avg       0.97      0.97      0.97      5257
+
+[[ 552    0   13   10]
+ [   0  365    0   15]
+ [   4    0  984   21]
+ [  20   13   46 3214]]
